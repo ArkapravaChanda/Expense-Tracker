@@ -2,6 +2,8 @@
 
 A simple and interactive **Expense Tracker** web application built with **React.js**. Track your daily expenses, categorize them, and visualize spending patterns in real-time.
 
+Live Demo: https://arkapravachanda.github.io/Expense-Tracker
+
 ## Features
 - Add and remove expenses dynamically
 - Categorize expenses (e.g., Food, Transport, Entertainment)
